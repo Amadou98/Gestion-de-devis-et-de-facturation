@@ -1,0 +1,25 @@
+
+.barvertical{
+	background-color: red;
+}
+.photo{
+	background: white;
+			margin-left: 80px;
+           padding-top: 160px;
+           text-align: center;
+           display: table-cell;
+           vertical-align: middle;
+}
+
+.boutonlogin{
+	background-color: blue;
+	border:none;
+	font-weight: bold;
+}
+.creercompte{
+	color: red;
+}
+
+#cont{
+	padding-top: 50px;
+}
